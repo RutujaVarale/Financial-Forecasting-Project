@@ -1,0 +1,9 @@
+| Requirement               | Status                                           |
+| ------------------------- | ------------------------------------------------ |
+| Historical financial data | ✅ Revenue dataset used                           |
+| Excel                     | ✅ Data prepared and analyzed in spreadsheet form |
+| Python                    | ✅ Used Pandas, Matplotlib, ARIMA                 |
+| Time Series Analysis      | ✅ ARIMA forecasting model                        |
+| Predict future revenue    | ✅ Forecast generated                             |
+| Visual projections        | ✅ Revenue trend graph created                    |
+| Forecast report           | ✅ `forecast_output.csv` generated                |
